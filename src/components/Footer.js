@@ -101,18 +101,18 @@ export default function Footer() {
   const cryptoAddrs = [
     {
       type: "monero",
-      alt: "xmr",
-      addr: "84zQq4Xt7sq8cmGryuvWsXFMDvBvHjWjnMQXZWQQRXjB1TgoZWS9zBdNcYL7CRbQBqcDdxr4RtcvCgApmQcU6SemVXd7RuG",
+      alt: "",
+      // addr: "84zQq4Xt7sq8cmGryuvWsXFMDvBvHjWjnMQXZWQQRXjB1TgoZWS9zBdNcYL7CRbQBqcDdxr4RtcvCgApmQcU6SemVXd7RuG",
     },
     {
       type: "bitcoin",
-      alt: "btc",
-      addr: "bc1qlfnq8nu2k84h3jth7a27khaq0p2l2gvtyl2dv6",
+      alt: "",
+      // addr: "bc1qlfnq8nu2k84h3jth7a27khaq0p2l2gvtyl2dv6",
     },
     {
       type: "ethereum",
-      alt: "eth",
-      addr: "0xF6F204B044CC73Fa90d7A7e4C5EC2947b83b917e",
+      alt: "",
+      // addr: "0xF6F204B044CC73Fa90d7A7e4C5EC2947b83b917e",
     },
   ];
 
@@ -155,14 +155,14 @@ export default function Footer() {
       <footer className={classes.footer}>
         <Container maxWidth="sm">
           <Typography variant="body1">
-            Built and developed by{" "}
+            {/* Built and developed by{" "} */}
             <Link
               href="https://github.com/sh-dv"
               target="_blank"
               rel="noopener"
               color="inherit"
             >
-              {"sh-dv"}
+              {/* {"sh-dv"} */}
             </Link>
           </Typography>
 
@@ -172,7 +172,7 @@ export default function Footer() {
             avatar={
               <Avatar src={`/assets/icons/${currAvatar}-logo.png`}></Avatar>
             }
-            label="Donations Accepted"
+            // label="Donations Accepted"
             clickable
             onClick={() => handleClickOpen()}
             onDelete={() => handleClickOpen()}
@@ -194,12 +194,12 @@ export default function Footer() {
               paperScrollBody: classes.topPaperScrollBody,
             }}
           >
-            <DialogTitle>{"Donations"}</DialogTitle>
+            {/* <DialogTitle>{"Donations"}</DialogTitle> */}
 
             <DialogContent>
               <Hidden xsDown>
                 <DialogContentText style={{ textAlign: "center" }}>
-                  Hat.sh is an open-source application. The project is
+                  Criptify is an open-source application. The project is
                   maintained in my free time. Donations of any size are
                   appreciated.
                 </DialogContentText>
@@ -271,7 +271,7 @@ export default function Footer() {
               ))}
             </DialogContent>
             <DialogActions>
-              <Button
+              {/* <Button
                 style={{ marginBottom: 1 }}
                 href="https://ko-fi.com/shdvapps"
                 target="_blank"
@@ -281,11 +281,11 @@ export default function Footer() {
                   width="200"
                   alt="open collective"
                 ></img>
-              </Button>
+              </Button> */}
               <div style={{ flex: "1 0 0" }} />
-              <Button onClick={handleClose} color="primary">
+              {/* <Button onClick={handleClose} color="primary">
                 {t("close")}
-              </Button>
+              </Button> */}
             </DialogActions>
           </Dialog>
         </Container>
@@ -304,7 +304,7 @@ export default function Footer() {
           <Alert
             severity="info"
             action={
-              <Button color="inherit" size="small" onClick={handleClickOpen}>
+              // <Button color="inherit" size="small" onClick={handleClickOpen}>
                 <svg
                   enableBackground="new 0 0 24 24"
                   height="24"
@@ -317,18 +317,18 @@ export default function Footer() {
                   <g>
                     <g>
                       <rect fill="#427aa6" height="11" width="4" x="1" y="11" />
-                      <path
+                      {/* <path
                         fill="#427aa6"
                         d="M16,3.25C16.65,2.49,17.66,2,18.7,2C20.55,2,22,3.45,22,5.3c0,2.27-2.91,4.9-6,7.7c-3.09-2.81-6-5.44-6-7.7 C10,3.45,11.45,2,13.3,2C14.34,2,15.35,2.49,16,3.25z"
-                      />
-                      <path
+                      /> */}
+                      {/* <path
                         fill="#427aa6"
                         d="M20,17h-7l-2.09-0.73l0.33-0.94L13,16h2.82c0.65,0,1.18-0.53,1.18-1.18v0c0-0.49-0.31-0.93-0.77-1.11L8.97,11H7v9.02 L14,22l8.01-3v0C22,17.9,21.11,17,20,17z"
-                      />
+                      /> */}
                     </g>
                   </g>
                 </svg>
-              </Button>
+              // </Button>
             }
           >
             {t("donation_message")}

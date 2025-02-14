@@ -16,7 +16,7 @@ const tr_TR = {
   faq: "SSS",
   technical_details: "Teknik-Detaylar",
   changelog: "Değişiklik Günlüğü",
-  donation_message: "Hat.sh'yi sevdin mi? Bu projeye bağış yaparak destekleyebilirsin.",
+  donation_message: "Criptify'yi sevdin mi? Bu projeye bağış yaparak destekleyebilirsin.",
 
   // Settings
   settings: "Ayarlar",
@@ -31,7 +31,7 @@ const tr_TR = {
   reset: "Sıfırla",
   guide: "Kılavuz",
   multiple_tabs_alert: "Çoklu pencere uyarısı",
-  multiple_tabs_alert_notice_one: "Görünüşe göre Hat.sh başka bir pencerede/sekmede zaten açık.",
+  multiple_tabs_alert_notice_one: "Görünüşe göre Criptify başka bir pencerede/sekmede zaten açık.",
   multiple_tabs_alert_notice_two: "Lütfen aynı anda farklı sekmelerdeki dosyaları şifrelemekten/şifresini çözmekten kaçının.",
   understand: "ANLADIM",
 
@@ -119,8 +119,8 @@ const tr_TR = {
   choose_files_dec: "Şifresi çözülecek dosyaları seç",
   sender_key_loaded: "Gönderenin açık anahtarı yüklendi, lütfen şifrelenmiş dosyayı seçiniz.",
   recipient_key_loaded: "Alıcının açık anahtarı yüklendi, lütfen şifrelenecek dosyayı seçin.",
-  file_not_encrypted_corrupted: "Bu dosya hat.sh kullanılarak şifrelenmemiş veya dosya bozulmuş olabilir!",
-  old_version: "Bu dosya, hat.sh'nin eski bir sürümü kullanılarak şifrelenmiş, v1 uygulamasını ziyaret ederek bu dosyanın şifresini çözebilirsiniz.",
+  file_not_encrypted_corrupted: "Bu dosya Criptify kullanılarak şifrelenmemiş veya dosya bozulmuş olabilir!",
+  old_version: "Bu dosya, Criptify'nin eski bir sürümü kullanılarak şifrelenmiş, v1 uygulamasını ziyaret ederek bu dosyanın şifresini çözebilirsiniz.",
   file_mixup: "Şifre çözme için seçilen dosyalar, parola veya açık anahtar ile aynı yöntem kullanılarak şifrelenmelidir. Eşleşen dosyaları seçin.",
   enter_password_dec: "Parolayı giriniz",
   enter_keys_dec: "Gönderenin Açık Anahtarını ve Özel Anahtarınızı girin",

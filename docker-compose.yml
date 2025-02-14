@@ -2,7 +2,7 @@ version: "3"
 
 services:
   web:
-    image: shdv/hat.sh
+    image: shdv/Criptify
     build:
       context: ./
       dockerfile: Dockerfile

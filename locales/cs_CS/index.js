@@ -16,7 +16,7 @@ const cs_CS = {
   faq: "FAQ",
   technical_details: "Technické detaily",
   changelog: "Záznam změn",
-  donation_message: "Líbí se Vám hat.sh? Můžete projekt podpořit.",
+  donation_message: "Líbí se Vám Criptify? Můžete projekt podpořit.",
 
   // Settings
   settings: "Nastvení",
@@ -31,7 +31,7 @@ const cs_CS = {
   reset: "Resetovat",
   guide: "Průvodce",
   multiple_tabs_alert: "Varování: více karet",
-  multiple_tabs_alert_notice_one: "Vypadá to, že už máte Hat.sh otevřené v jíné kartě/okně.",
+  multiple_tabs_alert_notice_one: "Vypadá to, že už máte Criptify otevřené v jíné kartě/okně.",
   multiple_tabs_alert_notice_two: "Prosím, vyhněte se šifrování/dešifrování souborů v různých kartách najednou.",
   understand: "ROZUMÍM",
 
@@ -119,8 +119,8 @@ const cs_CS = {
   choose_files_dec: "Vybrat soubory k dešifrování",
   sender_key_loaded: "Veřejný klíč odesílatele načten, prosím vyberte zašifrovaný soubor.",
   recipient_key_loaded: "Veřejný klíč příjemce načten, prosím vyberte soubor k zašifrování.",
-  file_not_encrypted_corrupted: "Soubor nebyl zašifrován pomocí hat.sh, nebo je požkozen!",
-  old_version: "Soubor byl zašifrován starší verzí hat.sh, navštivte verzi v1 pro dešifrování.",
+  file_not_encrypted_corrupted: "Soubor nebyl zašifrován pomocí Criptify, nebo je požkozen!",
+  old_version: "Soubor byl zašifrován starší verzí Criptify, navštivte verzi v1 pro dešifrování.",
   file_mixup: "Vybrané soubory pro dešifrování musí být zašifrovány stejnou metodou, heslem nebo veřejným klíčem. Vyberte odpovídající soubory.",
   enter_password_dec: "Vložte heslo pro dešifrování",
   enter_keys_dec: "Vložte Veřejný klíč odesílatele a Váš Soukromý klíč",

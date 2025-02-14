@@ -16,7 +16,7 @@ const es_ES = {
   faq: "FAQ",
   technical_details: "Detalles técnicos",
   changelog: "Registro de cambios",
-  donation_message: "¿Te encanta hat.sh? Puedes donar para apoyar el proyecto.",
+  donation_message: "¿Te encanta Criptify? Puedes donar para apoyar el proyecto.",
 
   // Settings
   settings: "Ajustes",
@@ -31,7 +31,7 @@ const es_ES = {
   reset: "Reiniciar",
   guide: "Guía",
   multiple_tabs_alert: "Alerta de múltiples pestañas ",
-  multiple_tabs_alert_notice_one: "Parece que Hat.sh ya está abierto en otra ventana/pestaña.",
+  multiple_tabs_alert_notice_one: "Parece que Criptify ya está abierto en otra ventana/pestaña.",
   multiple_tabs_alert_notice_two: "Por favor, evita cifrar/descifrar archivos en diferentes pestañas al mismo tiempo.",
   understand: "ENTIENDO",
 
@@ -119,8 +119,8 @@ const es_ES = {
   choose_files_dec: "Elige los archivos a descifrar",
   sender_key_loaded: "La clave pública del remitente está cargada, por favor selecciona el archivo cifrado.",
   recipient_key_loaded: "La clave pública del destinatario está cargada, por favor selecciona un archivo para cifrar.",
-  file_not_encrypted_corrupted: "¡Este archivo no fue cifrado usando hat.sh o el archivo puede estar corrupto!",
-  old_version: "Este archivo fue cifrado utilizando una versión más antigua de hat.sh, puedes descifrar este archivo visitando la aplicación v1",
+  file_not_encrypted_corrupted: "¡Este archivo no fue cifrado usando Criptify o el archivo puede estar corrupto!",
+  old_version: "Este archivo fue cifrado utilizando una versión más antigua de Criptify, puedes descifrar este archivo visitando la aplicación v1",
   file_mixup: "Los archivos seleccionados para el descifrado tienen que estar cifrados con el mismo método, ya sea mediante contraseña o clave pública. Elige los archivos que coincidan.",
   enter_password_dec: "Introduce la contraseña de descifrado",
   enter_keys_dec: "Introduce la clave pública del remitente y tu clave privada",

@@ -31,7 +31,7 @@
 
 ## v2.3.2
 
-- Critical bug fix that lead to file decryption errors, and file encryption in certain cases. [Release info.](https://github.com/sh-dv/hat.sh/releases/tag/v2.3.2)
+- Critical bug fix that lead to file decryption errors, and file encryption in certain cases. [Release info.](https://github.com/sh-dv/Criptify/releases/tag/v2.3.2)
 
 ## v2.3.1
 
@@ -113,7 +113,7 @@
 - Adding a password visibility button (on/off) inside the password field in the decryption panel.
 - About page redesign (documentation).
 - Idle timer fixes.
-- Detect if the file was decrypted using an old version of hat.sh (v1).
+- Detect if the file was decrypted using an old version of Criptify (v1).
 - Safely encode file names passed to SW.
 - Update node.js to the newest version.
 - Adding the changelog file to github.
@@ -121,7 +121,7 @@
 ## V2.0.5
 
 - Fix critical bug with useEffect that leads to increased file output size.
-- Programming the markdown file parser for the hat.sh documentation.
+- Programming the markdown file parser for the Criptify documentation.
 - Creating the About page.
 - Implementing an idle timer where user gets notified when they are inactive with app, where they are asked to reload the page.
 - Panel redesign.
@@ -153,4 +153,4 @@
 
 ## V2.0.0
 
-- The birth of hat.sh v2 beta where it introduced in-browser memory efficient large file chunked encryption using streams with libsodium.js and switching algorithms to xchacha20poly1305 and argon2id.
+- The birth of Criptify v2 beta where it introduced in-browser memory efficient large file chunked encryption using streams with libsodium.js and switching algorithms to xchacha20poly1305 and argon2id.

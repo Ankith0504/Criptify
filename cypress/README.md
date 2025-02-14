@@ -7,9 +7,9 @@
 
 <br>
 
-move to the hat.sh app root directory
+move to the Criptify app root directory
 
-`cd hat.sh`
+`cd Criptify`
 
 install cypress/dependencies:
 

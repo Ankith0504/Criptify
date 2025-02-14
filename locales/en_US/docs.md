@@ -55,7 +55,7 @@ Before installation make sure you are running [nodejs](https://nodejs.org/en/) a
 1. clone the github repository
 
 ```bash
-git clone https://github.com/sh-dv/Criptify.git Criptify
+git clone https://github.com/Ankith0504/Criptify.git Criptify
 ```
 
 2. move to the folder
@@ -122,7 +122,7 @@ docker run -d -p 3991:80 shdv/Criptify
 1. clone the github repository
 
 ```bash
-git clone https://github.com/sh-dv/Criptify.git Criptify
+git clone https://github.com/Ankith0504/Criptify.git Criptify
 ```
 
 2. move to the folder
@@ -150,7 +150,7 @@ docker run -d -p 3991:80 shdv/Criptify
 1. clone the github repository
 
 ```bash
-git clone https://github.com/sh-dv/Criptify.git Criptify
+git clone https://github.com/Ankith0504/Criptify.git Criptify
 ```
 
 2. move to the folder
@@ -308,7 +308,7 @@ No, Criptify never stores any of your data. It only runs locally in your browser
 
 ### Is Criptify free?
 
-Yes, Criptify is free and always will be. However, please consider [donating](https://github.com/sh-dv/Criptify#donations) to support the project.
+Yes, Criptify is free and always will be. However, please consider [donating](https://github.com/Ankith0504/Criptify#donations) to support the project.
 
 <hr style="height: 1px">
 
@@ -374,7 +374,7 @@ Once you visit the site and the page loads, it runs only offline.
 
 ### How can I contribute?
 
-Criptify is an open-source application. You can help make it better by making commits on GitHub. The project is maintained in my free time. [Donations](https://github.com/sh-dv/Criptify#donations) of any size are appreciated.
+Criptify is an open-source application. You can help make it better by making commits on GitHub. The project is maintained in my free time. [Donations](https://github.com/Ankith0504/Criptify#donations) of any size are appreciated.
 
 <hr style="height: 1px">
 
@@ -626,11 +626,11 @@ Internally, XChaCha20 works like a block cipher used in counter mode. It uses th
 [xchacha20-poly1305]: https://libsodium.gitbook.io/doc/secret-key_cryptography/aead/chacha20-poly1305/xchacha20-poly1305_construction
 [argon2id]: https://github.com/p-h-c/phc-winner-argon2
 [x25519]: https://cr.yp.to/ecdh.html
-[opensource]: https://github.com/sh-dv/Criptify
+[opensource]: https://github.com/Ankith0504/Criptify
 [bitwarden]: https://bitwarden.com/
 [extending the salsa20 nonce paper]: https://cr.yp.to/snuffle/xsalsa-20081128.pdf
 [soon]: https://tools.ietf.org/html/draft-irtf-cfrg-xchacha
-[github]: https://github.com/sh-dv/Criptify
+[github]: https://github.com/Ankith0504/Criptify
 [veracrypt]: https://veracrypt.fr
 [cryptomator]: https://cryptomator.org
 [kryptor]: https://github.com/samuel-lucas6/Kryptor

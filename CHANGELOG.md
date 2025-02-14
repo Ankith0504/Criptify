@@ -31,7 +31,7 @@
 
 ## v2.3.2
 
-- Critical bug fix that lead to file decryption errors, and file encryption in certain cases. [Release info.](https://github.com/sh-dv/Criptify/releases/tag/v2.3.2)
+- Critical bug fix that lead to file decryption errors, and file encryption in certain cases. [Release info.](https://github.com/Ankith0504/Criptify/releases/tag/v2.3.2)
 
 ## v2.3.1
 

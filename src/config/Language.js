@@ -53,7 +53,7 @@ const Language = () => {
           severity="info"
           action={
             <Button
-              href="https://github.com/sh-dv/Criptify/blob/master/TRANSLATION.md"
+              href="https://github.com/Ankith0504/Criptify/blob/master/TRANSLATION.md"
               target="_blank"
             >
               {t("guide")}

@@ -352,7 +352,7 @@ export default function About(props) {
               </Button>
 
               <IconButton
-                href="https://github.com/sh-dv/Criptify"
+                href="https://github.com/Ankith0504/Criptify"
                 target="_blank"
                 rel="noopener"
               >
